@@ -60,3 +60,12 @@ lt --port 3000
 ```
 sudo apt update && (sudo apt install -y netcat-openbsd lsof || sudo apt install -y netcat-traditional lsof) && curl -sSL -o backup.sh https://raw.githubusercontent.com/MetaBooy/gensynnode/refs/heads/main/backup && chmod +x backup.sh && ./backup.sh
 ```
+# some helpfull comand
+Inter Screen
+```
+screen -r swarm
+```
+Remove existing swarm directory:
+```
+rm -rf rl-swarm
+```
