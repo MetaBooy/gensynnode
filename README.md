@@ -72,9 +72,10 @@ rm -rf rl-swarm
 
 # if step 7 not workinfg then try it 
 ```
-wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.tgz
-tar -xvzf ngrok-stable-linux-amd64.tgz
+wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
+tar -xvzf ngrok-v3-stable-linux-amd64.tgz
 sudo mv ngrok /usr/local/bin/
+
 ```
 then 
 ```
