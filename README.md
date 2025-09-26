@@ -78,7 +78,8 @@ sudo mv ngrok /usr/local/bin/
 ```
 then 
 ```
-ngrok config add-authtoken 32NEofQU8RUFa1PdHFEPeihS6bY_3V6nNJk756jLt7p9eeA9w
+ngrok authtoken 32NEofQU8RUFa1PdHFEPeihS6bY_3V6nNJk756jLt7p9eeA9w
+
 ```
 then 
 ```
