@@ -69,3 +69,18 @@ Remove existing swarm directory:
 ```
 rm -rf rl-swarm
 ```
+
+# if step 7 not workinfg then try it 
+```
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.tgz
+tar -xvzf ngrok-stable-linux-amd64.tgz
+sudo mv ngrok /usr/local/bin/
+```
+then 
+```
+ngrok config add-authtoken 32NEofQU8RUFa1PdHFEPeihS6bY_3V6nNJk756jLt7p9eeA9w
+```
+then 
+```
+ngrok http 3000
+```
