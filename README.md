@@ -3,7 +3,7 @@
 # STEP1
 Install docker
 ```
-curl -fsSL https://gist.githubusercontent.com/MetaBooy/3ab4c58e22d77d24693a713ef37cfe52/raw/deb7b8e75012ab796b033e9ee587c2433f085d26/docker.sh && chmod +x install_docker.sh && ./install_docker.sh
+curl -fsSL https://gist.githubusercontent.com/MetaBooy/3ab4c58e22d77d24693a713ef37cfe52/raw/24233fb1ec4418f9e822c380586279c9ec3065ce/docker.sh && chmod +x install_docker.sh && ./install_docker.sh
 ```
 
 # STEP 2
