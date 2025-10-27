@@ -180,3 +180,7 @@ then
 ```
 ngrok http 3000
 ```
+## dlt screen comand 
+```
+screen -X -S <session_name_or_id> quit
+```
